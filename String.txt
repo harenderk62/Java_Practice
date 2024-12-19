@@ -1,27 +1,4 @@
 
-7. String Anagram Check
-Problem: Write a program to check if two strings are anagrams (i.e., both strings contain the same characters in the same frequency).
-Steps:
-Sort both strings and compare them.
-Alternatively, use a frequency array or HashMap to check if both strings have the same character frequencies.
-
-8. Substring Search
-Problem: Write a program to check if one string is a substring of another.
-Steps:
-Use the contains method or indexOf to check if the substring exists within the main string.
-
-9. Convert String to Integer
-Problem: Write a program to convert a string to an integer without using the built-in parseInt method.
-Steps:
-Iterate through the string and convert each character to its integer value.
-Use mathematical operations (e.g., multiplication by 10 and addition) to build the integer.
-
-10. Count Vowels and Consonants
-Problem: Write a program to count the number of vowels and consonants in a string.
-Steps:
-Loop through the string and check if each character is a vowel or consonant.
-Use Character.toLowerCase() to handle both uppercase and lowercase letters.
-
 11. Find All Permutations of a String
 Problem: Write a program to print all permutations of a given string.
 Steps:
